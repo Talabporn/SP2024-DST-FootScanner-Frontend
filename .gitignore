@@ -36,3 +36,9 @@ yarn-error.log*
 
 #ignoreS
 /credentials.json
+
+# Ignore SQL files
+*.sql
+
+# Ignore Markdown files
+*.md
