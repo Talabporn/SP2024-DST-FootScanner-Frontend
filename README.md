@@ -1,6 +1,6 @@
 # SP2024-DST-FootScanner-Frontend
 
-> Frontend client สำหรับโปรเจกต์ **FootScanner** — แอปพลิเคชันที่สร้างอินเตอร์เฟซเพื่อเชื่อมต่อกับ backend และแสดงผลโมเดลเท้า 3 มิติ เนื่องจากการเข้าถึงเครื่องสแกนจริงมีข้อจำกัด
+แอปพลิเคชันที่สร้างอินเตอร์เฟซเพื่อเชื่อมต่อกับ backend และแสดงผลโมเดลเท้า 3 มิติ เนื่องจากการเข้าถึงเครื่องสแกนจริงมีข้อจำกัดในการเข้าถึง
 
 ---
 
@@ -17,8 +17,6 @@ cd SP2024-DST-FootScanner-Frontend
 
 ```bash
 npm install
-# หรือ
-# yarn install
 ```
 
 ### 3. ตั้งค่าตัวแปรสภาพแวดล้อม (ถ้าใช้)
@@ -85,12 +83,7 @@ npm run start
 
 * **Next.js** — Framework หลักสำหรับสร้าง frontend
 * **React** — Library สำหรับพัฒนา UI
-* **Three.js (หรือเทคโนโลยี 3D อื่น)** — ใช้ในการเรนเดอร์โมเดลเท้า 3 มิติ
 * **CSS / Module CSS** — สำหรับการตกแต่ง UI
 * **ESLint** — สำหรับการตรวจสอบคุณภาพโค้ด
 
 ---
-
-## ผู้พัฒนา
-
-**Talabporn**  — [https://github.com/Talabporn/SP2024-DST-FootScanner-Frontend](https://github.com/Talabporn/SP2024-DST-FootScanner-Frontend)
